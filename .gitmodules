@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+=======
+[submodule "build/external/glfw"]
+	path = build/external/glfw
+	url = https://github.com/glfw/glfw.git
+>>>>>>> 1ed6159dea207cdcda968d6b2b3f61b5c1b28db1
+[submodule "external/glfw"]
+	path = external/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "external/spdlog"]
+	path = external/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "external/imgui"]
+	path = external/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "external/glm"]
+	path = external/glm
+	url = https://github.com/g-truc/glm.git
